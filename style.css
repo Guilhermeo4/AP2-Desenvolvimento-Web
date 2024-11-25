@@ -61,11 +61,11 @@ body {
     border-radius: 5px;
 }
 
-#login button {
+#login button #login button {
     width: 100%; /* Ocupa toda a largura */
     max-width: 150px; /* Largura máxima */
     padding: 10px;
-    background-color: orange;
+    background-color: gray; /* Cor de fundo cinza */
     color: white;
     border: none;
     border-radius: 5px;
@@ -73,7 +73,7 @@ body {
 }
 
 #login button:hover {
-    background-color: #00ced1; /* Cor ao passar o mouse */
+    background-color: darkgray; /* Cor ao passar o mouse */
 }
 
 /* Responsividade: dispositivos maiores */
