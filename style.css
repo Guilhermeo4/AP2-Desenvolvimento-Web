@@ -20,7 +20,7 @@ body {
 
 /* Estilização do #capa */
 #capa {
-    color: #f9f9f9;
+    color: #ffd700; /* Amarelo dourado estilo Botafogo */
     text-align: center;
     margin: 0 auto; /* Centraliza o elemento horizontalmente */
 }
