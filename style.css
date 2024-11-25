@@ -12,7 +12,7 @@ body {
     padding: 0;
     min-height: 100vh; /* Faz o body ocupar a tela inteira */
     box-sizing: border-box;
-    background: linear-gradient(to right, black, white); /* Gradiente de preto para branco */
+    background: linear-gradient(to right, black, gray);  /* Gradiente de preto para cinza */
     background-size: cover; /* Faz o fundo cobrir toda a área */
     background-position: center; /* Centraliza a imagem */
     background-repeat: no-repeat; /* Evita que a imagem se repita */
@@ -20,11 +20,12 @@ body {
 
 /* Estilização do #capa */
 #capa {
-    color: #f0f0f0; /* Branco escuro ou cinza bem claro */
+    color: white; /* Define a cor do texto como branco */
     text-align: center;
     margin: 0 auto;
-    font-weight: bold; /* Destaca o texto */
+    font-weight: bold;
 }
+
 
 
 #capa h1{
