@@ -20,11 +20,12 @@ body {
 
 /* Estilização do #capa */
 #capa {
-    color: #333; /* Cinza mais escuro para bom contraste */
+    color: #f0f0f0; /* Branco escuro ou cinza bem claro */
     text-align: center;
     margin: 0 auto;
-    font-weight: bold;
+    font-weight: bold; /* Destaca o texto */
 }
+
 
 #capa h1{
     font-style: italic;
